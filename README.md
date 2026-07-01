@@ -1,31 +1,39 @@
 # Hi, I'm Parth Chandak
 
-Creative technologist and software engineer at **Zoox** — building generative art with live data, research tooling, and passenger experience systems.
+Creative technologist and software engineer at **Zoox** — generative art with live data, research tooling, mobile apps, and passenger experience systems.
 
 **San Francisco Bay Area** · **[Portfolio](https://parthchandak.info)** · **[LinkedIn](https://www.linkedin.com/in/parthchandak/)**
 
 ---
 
-## Featured projects
+## Pinned highlights
 
-| Project | What it is | Live demo |
-|--------|------------|-----------|
-| [**tessellate**](https://github.com/parthchandak02/tessellate) | Time-driven kaleidoscope driven by live timezone data | [Play →](https://parthchandak02.github.io/tessellate/) |
-| [**grow**](https://github.com/parthchandak02/grow) | Generative garden with deforestation timeline mode | [Play →](https://parthchandak02.github.io/grow/) |
-| [**flora**](https://github.com/parthchandak02/flora) | Botanical blooms from country-level data | [Play →](https://parthchandak02.github.io/flora/) |
+| Project | What it is | Link |
+|--------|------------|------|
 | [**portfolio**](https://github.com/parthchandak02/portfolio) | Personal site and project showcase | [Visit →](https://parthchandak.info) |
-| [**ibkr-ibind-rest-api**](https://github.com/parthchandak02/ibkr-ibind-rest-api) | Python client for Interactive Brokers REST API | — |
-| [**literature-review-assistant**](https://github.com/parthchandak02/literature-review-assistant) | AI-assisted literature review workflows | — |
+| [**calarm**](https://github.com/parthchandak02/calarm) | iOS 26 AlarmKit — countdown alarms, Live Activities, Dynamic Island | [Repo →](https://github.com/parthchandak02/calarm) |
+| [**literature-review-assistant**](https://github.com/parthchandak02/literature-review-assistant) | AI-assisted literature review workflows | [Repo →](https://github.com/parthchandak02/literature-review-assistant) |
+| [**3d-particle-sphere**](https://github.com/parthchandak02/3d-particle-sphere) | Embeddable 3D particle sphere for websites | [Repo →](https://github.com/parthchandak02/3d-particle-sphere) |
 
-More generative builds: [drift](https://parthchandak02.github.io/drift/) · [trace](https://parthchandak02.github.io/trace/) · [resonate](https://parthchandak02.github.io/resonate/) · [flux](https://parthchandak02.github.io/flux/)
+---
+
+## Generative art (daily builds)
+
+Live Canvas 2D pieces driven by real APIs — weather, markets, timezones, and geographic data.
+
+| | | |
+|--|--|--|
+| [**tessellate**](https://parthchandak02.github.io/tessellate/) | [**grow**](https://parthchandak02.github.io/grow/) | [**flora**](https://parthchandak02.github.io/flora/) |
+| [**drift**](https://parthchandak02.github.io/drift/) | [**trace**](https://parthchandak02.github.io/trace/) | [**resonate**](https://parthchandak02.github.io/resonate/) |
+| [**swell**](https://parthchandak02.github.io/swell/) | [**flux**](https://parthchandak02.github.io/flux/) | |
 
 ---
 
 ## What I work on
 
 - **Engineering** — prototyping platforms, voice/realtime systems, passenger experience tooling
-- **Generative art** — Canvas 2D pieces driven by live APIs (weather, markets, timezones)
-- **Research tools** — literature review, peer review, and media analysis utilities
+- **Generative art** — single-file Canvas 2D with live data transparency labels
+- **Research & mobile** — literature review tooling, peer review utilities, iOS apps
 
 ---
 
