@@ -13,7 +13,7 @@ Creative technologist and software engineer building autonomous mobility systems
 | [**tessellate**](https://github.com/parthchandak02/tessellate) | Time-driven kaleidoscope driven by live timezone data | [Play →](https://parthchandak02.github.io/tessellate/) |
 | [**grow**](https://github.com/parthchandak02/grow) | Generative garden with deforestation timeline mode | [Play →](https://parthchandak02.github.io/grow/) |
 | [**flora**](https://github.com/parthchandak02/flora) | Botanical blooms from country-level data | [Play →](https://parthchandak02.github.io/flora/) |
-| [**Portfolio**](https://github.com/parthchandak02/Portfolio) | Personal site and project showcase | [Visit →](https://parthchandak.info) |
+| [**portfolio**](https://github.com/parthchandak02/portfolio) | Personal site and project showcase | [Visit →](https://parthchandak.info) |
 | [**ibkr-ibind-rest-api**](https://github.com/parthchandak02/ibkr-ibind-rest-api) | Python client for Interactive Brokers REST API | — |
 | [**literature-review-assistant**](https://github.com/parthchandak02/literature-review-assistant) | AI-assisted literature review workflows | — |
 
