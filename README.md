@@ -1,8 +1,8 @@
 # Hi, I'm Parth Chandak
 
-Creative technologist and software engineer building autonomous mobility systems at **Zoox**, generative art with live data, and research tooling.
+Creative technologist and software engineer at **Zoox** — building generative art with live data, research tooling, and passenger experience systems.
 
-**[Portfolio](https://parthchandak.info)** · **[LinkedIn](https://www.linkedin.com/in/parthchandak/)**
+**San Francisco Bay Area** · **[Portfolio](https://parthchandak.info)** · **[LinkedIn](https://www.linkedin.com/in/parthchandak/)**
 
 ---
 
