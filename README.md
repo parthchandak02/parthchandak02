@@ -16,7 +16,7 @@
 </h6>
 
 <a href="https://parthchandak.info"><b>Portfolio</b></a> ·
-<a href="https://www.linkedin.com/in/parthchandak/"><b>LinkedIn</b></a> ·
+<a href="https://www.linkedin.com/in/parthchandak02/"><b>LinkedIn</b></a> ·
 <a href="#apps"><b>Apps</b></a> ·
 <a href="#generative-art"><b>Generative art</b></a> ·
 <a href="#tools"><b>Tools</b></a>
