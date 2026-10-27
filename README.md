@@ -25,7 +25,7 @@
 
 <a href="https://parthchandak.info"><img src="https://raw.githubusercontent.com/parthchandak02/portfolio/main/docs/assets/readme/hero.jpg" width="100%" alt="parthchandak.info: a 3D glass prism splitting a white beam into a rainbow under the line I am a Creative Technologist, with a strip of coloured timeline ticks across the middle and round glass buttons on the right"></a>
 
-<sub><b>parthchandak.info</b>, the portfolio: a glass prism you steer with the pointer, and a career record that splits into the same rainbow. <a href="https://github.com/parthchandak02/portfolio">Source</a></sub>
+<sub><b>parthchandak.info</b>, the portfolio: a glass prism you steer with the pointer (soap bubbles in light mode), and a career that splits into the same rainbow. <a href="https://github.com/parthchandak02/portfolio">Source</a></sub>
 
 </div>
 
